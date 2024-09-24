@@ -14,11 +14,10 @@ Learnverse is a university website built with React and Vite. The website serves
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
   git clone https://github.com/Argwingskodhek/uniHub.git
 
 2. **Navigate to the project directory::**
-    cd learnverse
+    cd uniHub
 3. **Install dependencies:**
    npm install
 
