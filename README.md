@@ -1,4 +1,4 @@
-# Learnverse 
+# UuniHub
 
 Learnverse is a university website built with React and Vite. The website serves as a platform to showcase the university's programs, events, and information about the institution.
 
